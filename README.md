@@ -1,7 +1,7 @@
 # Accordion
-A small prototype accordion built to practice selecting and manipulating DOM elements.
+A prototype featuring multiple accordions.
 
-Built by myself in 2019.
+Created in 2019 as a personal project to improve my JavaScript skills.
 
 [See the live demo here](https://www.mjwals.co.uk/accordion/)
 ## Tech stack
