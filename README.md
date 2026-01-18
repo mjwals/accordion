@@ -1,4 +1,4 @@
-# accordion
+# Accordion
 A small prototype accordion built to practice selecting and manipulating DOM elements.
 
 Built by myself in 2019.
