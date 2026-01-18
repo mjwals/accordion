@@ -3,7 +3,7 @@ A small prototype accordion built to practice selecting and manipulating DOM ele
 
 Built by myself in 2019.
 
-[See the live demo here](https://www.mjwals.co.uk/loginscreen/)
+[See the live demo here](https://www.mjwals.co.uk/accordion/)
 ## Tech stack
 - HTML
 - CSS
